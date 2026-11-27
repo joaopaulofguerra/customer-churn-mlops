@@ -14,3 +14,9 @@ dist/
 # IDE
 .vscode/
 .idea/
+
+# MLflow / Jupyter / data
+mlflow.db
+.ipynb_checkpoints/
+mlruns/
+WA_Fn-UseC_-Telco-Customer-Churn.csv
